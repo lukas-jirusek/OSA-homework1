@@ -2,7 +2,7 @@
 # OSA - homework 1
 Graphical solution to first homework from Operations and Systems Analysis.
 
-![Visualisation example](https://i.imgur.com/zgiSlao.png)
+![Visualisation example](https://i.imgur.com/wDQcAoc.png)
 
 # Requirements
 You need to have Python 3.9+ and following Python libraries, all available at [pip package manager](https://pypi.org/project/pip/)
