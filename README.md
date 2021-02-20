@@ -21,4 +21,4 @@ Alternatively you can watch the visualisation at [YouTube](https://www.youtube.c
 #### 1. Odds that Ing. Pozil will eventually reach elevator?
  Chances he will get to elevator are approximately equal to **67.74%.**
 #### 2. After how long can we claim he is in elevator with 75% certainty (assuming one step takes 20 seconds)?
-Since his chance of getting to elevator at all are below 75%, we can never make such a claim.
+Since his chance of getting to elevator at all are below 75%, we can **never** make such a claim.
